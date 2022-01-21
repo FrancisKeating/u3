@@ -1,9 +1,9 @@
 # u3
 
-><figure></figure> - block element that is used for pictues, code listing, diagrams. ><
+>><figure></figure> - block element that is used for pictues, code listing, diagrams. ><<
 
 
- <figcaption></figcaption> to be used with the figure block element to describe the figure
+ ><figcaption></figcaption> to be used with the figure block element to describe the figure><
 
 
 <time datetime="" ></time> inline element with an attribute to set up a standard time. format is: year-month-dayTmilitarytime-hours from UTC  
